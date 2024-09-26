@@ -26,7 +26,7 @@ A real estate platform designed for users to:
 - Utilize email and Google sign-in for secure access.
 
 ### [EasyDrive](#)
-A Java-based vehicle rental system where users can:
+A Java OOP-based vehicle rental system where users can:
 - Browse available vehicles and make selections based on preferences.
 - Generate confirmation slips with rental details.
 
